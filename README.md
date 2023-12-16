@@ -4,7 +4,7 @@ The repository consist of simple python scripts for performaing different operat
 i.e. creating a user for providing read only access to a colloborating team requires creating the user on lots of ISVA Appliances.
 The scritps also provide logs in a /log directory & logs to console with all detials of the operation.
 
-Note: The scripts not officially from IBM & you will be running at your own risk.
+Note: The scripts are in any way provided by officially by IBM & you will be running at your own risk.
 
 ## Usage/Examples
 
